@@ -1,0 +1,39 @@
+panda
+cosmar
+
+
+poveste:
+
+Un panda intr-o padure gaseste o ciuperca ciudata,
+ii se micsoreaza pupilele cand o vede,
+sta puntin pe ganduri,
+mananca ciuperca,
+o inghite,
+ii se dilata pupilele,
+intra camera prin ochii lui,
+ceva psy shit,,
+si ajungi intr-un joc 2D
+in care controlezi un panda cand sa sara,
+cu tasta SPACE.
+
+initial panda se afla in good trip
+la un moment random trece in bad trip
+
+good trip:
+dealuri de zapada pe care pandaul aluneca
+si colecteaza ciuperci,
+daca cade intre dealuri in gropi
+revine de la inceputul ultimului
+good trip (check point)
+
+bad trip:
+dealuri de lava pe care panda aluneca si daca
+cade in gropi sau capcane moare definitiv
+si pierzi jocul
+
+Scopul: Keep the panda in the longest
+psytrip ever
+
+Background music: psytrance
+
+easter EGG TBD
